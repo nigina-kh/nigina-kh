@@ -68,18 +68,5 @@
   <img src="https://img.shields.io/badge/CSS3-18353e?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin:5px;">
 </p>
 
-<p align="center" style="margin-top: 50px; font-size: 150px; color: #18353e;">
-  GitHub Stats
-</p>
-
-
-<p align="center">
-  <!-- Overview -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nigina-kh&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats Overview" width="400"/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigina-kh&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="400"/>
-</p>
-
 
 
